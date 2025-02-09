@@ -11,6 +11,7 @@ Se implementa Simple Transformer para un chatbot que puede dar respuestas en bas
 
 #CUDA
 ![image](https://github.com/user-attachments/assets/40d3ac13-fdfc-474a-980b-6d63b5e3a522)
+
 Nos aseguramos que la aceleración por GPU esté disponible
 
 #Archivos de entrenamiento y test
@@ -19,5 +20,4 @@ Nos aseguramos que la aceleración por GPU esté disponible
 ![image](https://github.com/user-attachments/assets/37bf9ba2-924d-4a56-9c3c-f79add1aea2e)
 Importamos los archivos de entrenamiento y test 
 - Checar formato en train.json y test.json
-- 
 
