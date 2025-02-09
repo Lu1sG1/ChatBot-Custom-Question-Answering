@@ -1,0 +1,158 @@
+[
+  {
+    "context": "The series primarily takes place in a region called the Final Empire on a world called Scadrial, where the sun and sky are red, vegetation is brown, and the ground is constantly being covered under black volcanic ashfalls.",
+    "qas": [
+      {
+        "id": "00001",
+        "is_impossible": false,
+        "question": "Where does the series take place?",
+        "answers": [
+          {
+            "text": "region called the Final Empire",
+            "answer_start": 38
+          },
+          {
+            "text": "world called Scadrial",
+            "answer_start": 74
+          }
+        ]
+      },
+      {
+        "id": "00002",
+        "is_impossible": false,
+        "question": "What color is the sun in Scadrial?",
+        "answers": [
+          {
+            "text": "red",
+            "answer_start": 97
+          }
+        ]
+      },
+      {
+        "id": "00003",
+        "is_impossible": true,
+        "question": "Why is the vegetation brown in Scadrial?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "\"Mistings\" have only one of the many Allomantic powers, while \"Mistborns\" have all the powers.",
+    "qas": [
+      {
+        "id": "00004",
+        "is_impossible": false,
+        "question": "How many powers does a Misting possess?",
+        "answers": [
+          {
+            "text": "one",
+            "answer_start": 21
+          }
+        ]
+      },
+      {
+        "id": "00005",
+        "is_impossible": false,
+        "question": "What is the difference between Mistings and Mistborns?",
+        "answers": [
+          {
+            "text": "Mistings have only one of the many Allomantic powers, while Mistborns have all the powers",
+            "answer_start": 0
+          }
+        ]
+      },
+      {
+        "id": "00006",
+        "is_impossible": true,
+        "question": "What are Allomantic powers?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "Allomantic powers are fueled by burning specific metals, such as iron, steel, tin, and pewter. Each metal grants a unique ability, like enhanced strength or heightened senses.",
+    "qas": [
+      {
+        "id": "00007",
+        "is_impossible": false,
+        "question": "What fuels Allomantic powers?",
+        "answers": [
+          {
+            "text": "burning specific metals",
+            "answer_start": 29
+          }
+        ]
+      },
+      {
+        "id": "00008",
+        "is_impossible": false,
+        "question": "Name two Allomantic metals.",
+        "answers": [
+          {
+            "text": "iron",
+            "answer_start": 57
+          },
+          {
+            "text": "steel",
+            "answer_start": 63
+          }
+        ]
+      },
+      {
+        "id": "00009",
+        "is_impossible": true,
+        "question": "Which metal grants the ability to fly?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "The Lord Ruler is the immortal emperor of the Final Empire, who has ruled for a thousand years using his Allomantic powers and the power of the Well of Ascension.",
+    "qas": [
+      {
+        "id": "00010",
+        "is_impossible": false,
+        "question": "Who is the Lord Ruler?",
+        "answers": [
+          {
+            "text": "the immortal emperor of the Final Empire",
+            "answer_start": 16
+          }
+        ]
+      },
+      {
+        "id": "00011",
+        "is_impossible": false,
+        "question": "How long has the Lord Ruler ruled?",
+        "answers": [
+          {
+            "text": "a thousand years",
+            "answer_start": 79
+          }
+        ]
+      },
+      {
+        "id": "00012",
+        "is_impossible": true,
+        "question": "What is the Well of Ascension?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "Kelsier, also known as the Survivor of Hathsin, is a legendary Mistborn who leads a rebellion against the Lord Ruler. He is known for his charisma and his ability to inspire hope in the skaa.",
+    "qas": [
+      {
+        "id": "00013",
+        "is_impossible": false,
+        "question": "Who is Kelsier?",
+        "answers": [
+          {
+            "text": "a legendary Mistborn who leads a rebellion against the Lord Ruler",
+            "answer_start": 44
+          }
+        ]
+      }
+    ]
+  }
+]

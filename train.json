@@ -1,0 +1,319 @@
+[
+  {
+    "context": "Mistborn is a series of epic fantasy novels written by American author Brandon Sanderson.",
+    "qas": [
+      {
+        "id": "00001",
+        "is_impossible": false,
+        "question": "Who is the author of the Mistborn series?",
+        "answers": [
+          {
+            "text": "Brandon Sanderson",
+            "answer_start": 71
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "The first series, published between 2006 and 2008, consists of The Final Empire, The Well of Ascension, and The Hero of Ages.",
+    "qas": [
+      {
+        "id": "00002",
+        "is_impossible": false,
+        "question": "When was the series published?",
+        "answers": [
+          {
+            "text": "between 2006 and 2008",
+            "answer_start": 28
+          }
+        ]
+      },
+      {
+        "id": "00003",
+        "is_impossible": false,
+        "question": "What are the three books in the series?",
+        "answers": [
+          {
+            "text": "The Final Empire, The Well of Ascension, and The Hero of Ages",
+            "answer_start": 63
+          }
+        ]
+      },
+      {
+        "id": "00004",
+        "is_impossible": true,
+        "question": "Who is the main character in the series?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "The Mistborn series features a unique magic system called Allomancy, where users ingest and burn metals to gain supernatural abilities. There are 16 Allomantic metals, each granting different powers.",
+    "qas": [
+      {
+        "id": "00005",
+        "is_impossible": false,
+        "question": "What is the magic system in Mistborn called?",
+        "answers": [
+          {
+            "text": "Allomancy",
+            "answer_start": 38
+          }
+        ]
+      },
+      {
+        "id": "00006",
+        "is_impossible": false,
+        "question": "How many Allomantic metals are there?",
+        "answers": [
+          {
+            "text": "16",
+            "answer_start": 123
+          }
+        ]
+      },
+      {
+        "id": "00007",
+        "is_impossible": true,
+        "question": "Who is the most powerful Allomancer?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "The Mistborn series is set in a world called Scadrial, where ash falls from the sky and the sun is red. The society is divided between the nobility and the skaa, who are oppressed laborers.",
+    "qas": [
+      {
+        "id": "00008",
+        "is_impossible": false,
+        "question": "What is the name of the world in Mistborn?",
+        "answers": [
+          {
+            "text": "Scadrial",
+            "answer_start": 32
+          }
+        ]
+      },
+      {
+        "id": "00009",
+        "is_impossible": false,
+        "question": "What are the two main social classes in Scadrial?",
+        "answers": [
+          {
+            "text": "the nobility and the skaa",
+            "answer_start": 106
+          }
+        ]
+      },
+      {
+        "id": "00010",
+        "is_impossible": true,
+        "question": "Why is the sun red in Scadrial?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "Vin is the protagonist of the first Mistborn trilogy. She starts as a street urchin but discovers she is a Mistborn, a rare Allomancer who can use all Allomantic metals.",
+    "qas": [
+      {
+        "id": "00011",
+        "is_impossible": false,
+        "question": "Who is the protagonist of the first Mistborn trilogy?",
+        "answers": [
+          {
+            "text": "Vin",
+            "answer_start": 0
+          }
+        ]
+      },
+      {
+        "id": "00012",
+        "is_impossible": false,
+        "question": "What is a Mistborn?",
+        "answers": [
+          {
+            "text": "a rare Allomancer who can use all Allomantic metals",
+            "answer_start": 89
+          }
+        ]
+      },
+      {
+        "id": "00013",
+        "is_impossible": true,
+        "question": "What is Vin's favorite metal to burn?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "Kelsier, also known as the Survivor of Hathsin, is a legendary Mistborn who leads a rebellion against the Lord Ruler. He is known for his charisma and his ability to inspire hope in the skaa.",
+    "qas": [
+      {
+        "id": "00014",
+        "is_impossible": false,
+        "question": "Who is Kelsier?",
+        "answers": [
+          {
+            "text": "a legendary Mistborn who leads a rebellion against the Lord Ruler",
+            "answer_start": 44
+          }
+        ]
+      },
+      {
+        "id": "00015",
+        "is_impossible": false,
+        "question": "What is Kelsier known for?",
+        "answers": [
+          {
+            "text": "his charisma and his ability to inspire hope in the skaa",
+            "answer_start": 116
+          }
+        ]
+      },
+      {
+        "id": "00016",
+        "is_impossible": true,
+        "question": "How did Kelsier become a Mistborn?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "The Lord Ruler is the immortal emperor of the Final Empire, who has ruled for a thousand years using his Allomantic powers and the power of the Well of Ascension.",
+    "qas": [
+      {
+        "id": "00017",
+        "is_impossible": false,
+        "question": "Who is the Lord Ruler?",
+        "answers": [
+          {
+            "text": "the immortal emperor of the Final Empire",
+            "answer_start": 16
+          }
+        ]
+      },
+      {
+        "id": "00018",
+        "is_impossible": false,
+        "question": "How long has the Lord Ruler ruled?",
+        "answers": [
+          {
+            "text": "a thousand years",
+            "answer_start": 79
+          }
+        ]
+      },
+      {
+        "id": "00019",
+        "is_impossible": true,
+        "question": "What is the Well of Ascension?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "Allomantic powers are fueled by burning specific metals, such as iron, steel, tin, and pewter. Each metal grants a unique ability, like enhanced strength or heightened senses.",
+    "qas": [
+      {
+        "id": "00020",
+        "is_impossible": false,
+        "question": "What fuels Allomantic powers?",
+        "answers": [
+          {
+            "text": "burning specific metals",
+            "answer_start": 29
+          }
+        ]
+      },
+      {
+        "id": "00021",
+        "is_impossible": false,
+        "question": "Name two Allomantic metals.",
+        "answers": [
+          {
+            "text": "iron",
+            "answer_start": 57
+          },
+          {
+            "text": "steel",
+            "answer_start": 63
+          }
+        ]
+      },
+      {
+        "id": "00022",
+        "is_impossible": true,
+        "question": "Which metal grants the ability to fly?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "The Final Empire is the first book in the Mistborn series. It introduces the world of Scadrial and the struggle between the skaa and the nobility.",
+    "qas": [
+      {
+        "id": "00023",
+        "is_impossible": false,
+        "question": "What is the first book in the Mistborn series?",
+        "answers": [
+          {
+            "text": "The Final Empire",
+            "answer_start": 0
+          }
+        ]
+      },
+      {
+        "id": "00024",
+        "is_impossible": false,
+        "question": "What is the main conflict in The Final Empire?",
+        "answers": [
+          {
+            "text": "the struggle between the skaa and the nobility",
+            "answer_start": 89
+          }
+        ]
+      },
+      {
+        "id": "00025",
+        "is_impossible": true,
+        "question": "Who is the antagonist in The Final Empire?",
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "The Well of Ascension is the second book in the Mistborn series. It continues the story of Vin and her friends as they face new challenges in their fight against the Lord Ruler's legacy.",
+    "qas": [
+      {
+        "id": "00026",
+        "is_impossible": false,
+        "question": "What is the second book in the Mistborn series?",
+        "answers": [
+          {
+            "text": "The Well of Ascension",
+            "answer_start": 0
+          }
+        ]
+      },
+      {
+        "id": "00027",
+        "is_impossible": false,
+        "question": "What is the main challenge in The Well of Ascension?",
+        "answers": [
+          {
+            "text": "their fight against the Lord Ruler's legacy",
+            "answer_start": 109
+          }
+        ]
+      },
+      {
+        "id": "00028",
+        "is_impossible": true,
+        "question": "Who is the protagonist in The Well of Ascension?",
+        "answers": []
+      }
+    ]
+  }
+]
