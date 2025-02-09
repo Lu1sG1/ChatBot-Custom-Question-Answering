@@ -24,7 +24,9 @@ Importamos los archivos de entrenamiento y test
 # Modelo 
 ![image](https://github.com/user-attachments/assets/bb0c1782-a95c-41a0-abdc-c4afce56f000)
 Elegimos el modelo a usar, se soportan distintos tipos de modelos, por eficiencia se escoge la versión base de BERT, "bert-base-cased"
+
 Después se ajustan los parámetros del modelo, a continuación se explica de manera breve el impacto de los parámetros. 
+
 *reprocess_input_data: True
 Qué hace: Si se establece en True, los datos de entrada se volverán a procesar incluso si ya existen características en caché.
 Impacto: Garantiza que se apliquen los cambios en el preprocesamiento de datos, pero puede aumentar el tiempo de entrenamiento si el conjunto de datos es grande.
