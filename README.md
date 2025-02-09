@@ -161,4 +161,20 @@ Impacto: Útil para tareas avanzadas como extracción de características o aná
 Definimos el modelo, nos aseguramos de utilizar la aceleración por GPU y procedemos al entrenamieno 
 ![image](https://github.com/user-attachments/assets/ef53c43c-151f-4d55-85cf-619a3cf5c481)
 
+Obtenemos los resultados
+![image](https://github.com/user-attachments/assets/6d86001d-7201-4891-9434-52947805a385)
+
+# Pruebas
+
+Procedemos a las pruebas, donde le damos un contexto al modelo y hacemos una pregunta
+![image](https://github.com/user-attachments/assets/63dc550f-f350-4ae0-b3a9-17de0019ab81)
+
+![image](https://github.com/user-attachments/assets/a16e2e75-a077-442a-91b0-0e2b75a27f43)
+
+![image](https://github.com/user-attachments/assets/d9f1652b-3a9b-4551-b1d5-c4a6964bf346)
+
+![image](https://github.com/user-attachments/assets/e5d7d555-d732-44ce-b5cc-6b94607eca93)
+
+
+
 
