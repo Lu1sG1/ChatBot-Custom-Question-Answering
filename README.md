@@ -156,3 +156,9 @@ Qué hace: Especifica opciones adicionales de configuración del modelo, como la
 
 Impacto: Útil para tareas avanzadas como extracción de características o análisis del modelo.
 
+# Entrenamiento 
+
+Definimos el modelo, nos aseguramos de utilizar la aceleración por GPU y procedemos al entrenamieno 
+![image](https://github.com/user-attachments/assets/ef53c43c-151f-4d55-85cf-619a3cf5c481)
+
+
